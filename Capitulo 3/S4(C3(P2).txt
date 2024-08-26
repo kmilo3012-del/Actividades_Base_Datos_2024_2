@@ -1,0 +1,1 @@
+La necesidad de datos que se busca satisfacer con la consulta es la de: obtener el ID de la canción, el promedio de las calificaciones y la cantidad de usuarios que las escuchan de las canciones cuyo promedio sea mayor a 3.  
