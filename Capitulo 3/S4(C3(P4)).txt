@@ -1,0 +1,1 @@
+Cual es el ID del interprete principal y la cantidad de canciones que tiene dicho interprete siempre que tengan canciones en más de 1 idioma.
